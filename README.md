@@ -1,4 +1,4 @@
-## Team Tree House - Full Stack JavaScript Project
+## Team CodeFreaks - Full Stack JavaScript Project
 
 # Tic Tac Toe Game
 
